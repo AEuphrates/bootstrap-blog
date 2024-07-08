@@ -1,0 +1,13 @@
+.border-bottom{
+    background-color: darkgrey;
+}
+.card-img-top
+{
+    height: 200px;
+}
+body {
+    background-color: antiquewhite;
+}
+.bg-body-tertiary{
+    background-color: antiquewhite;
+}
